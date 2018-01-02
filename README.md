@@ -1,6 +1,6 @@
 # apunts PER
 
-* Nomenclatura
+* [Nomenclatura](nomenclatura.md)
 * Amarre y fondeo
 * Maniobra
 * Emergencies
