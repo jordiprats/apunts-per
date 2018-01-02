@@ -32,4 +32,10 @@
 
 **obra muerta**: superficie del casco que se halla por encima de la línea de flotación
 
+**cubierta principal**: es la que cierra el casco por su parte superior, haciéndolo estanco al agua
 
+**cubierta**: cada uno de los pisos de la embarcación
+
+**plan**: supetfície plana más baka del buque
+
+**sentina**: la parte más baja de la embarcación dónde se recogen los posibles derrames de aceite o filtraciones de agua
