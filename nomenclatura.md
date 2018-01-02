@@ -39,3 +39,23 @@
 **plan**: supetfície plana más baka del buque
 
 **sentina**: la parte más baja de la embarcación dónde se recogen los posibles derrames de aceite o filtraciones de agua
+
+**imbornales**: orificios que permiten la salida de agua acumulada en cubierta, se deben mantener limpios y libres de obstrucciones
+
+**banyera**: espacio de popa donde normalmente va el timonel
+
+**portillos**: aberturas, generalmente de forma circular, que se practican en los costados de la embarcación o en los mamparos de las superestructuras para dar luz y ventilación
+
+**escotillas**:  aberturas, generalmente rectangulares, practicadas en las cubiertas para establecer comunicación entre los distintos de departamentos de la embarcación
+
+**lumbreras o tragaluz**: aberturas en cubierta para permitir la entrada de luz al interior del barco
+
+**manguerotes**: dispositivos colocados en cubierta orientados al viento para facilitar la ventilación al interior del barco
+
+**pasamanos**: piezas que sirven de asidero al moverse por la embarcación.
+
+**candeleros**: piezas verticales sobre los que se sitúan los pasamanos a los costados de la embarcación
+
+**grifo de fondo**: válvulas fijadas al casco por debajo de la línea de flotación. Se deberían cerrar al navegar con mal tiempo (excepto la refrigeración del motor) y después de atracar. Es conveniente abrir y cerrarlos frecuentemente, se instala un filtro de agua minimo 15cm por encima de la línea de flotación
+
+## Estructura
