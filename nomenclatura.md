@@ -2,7 +2,7 @@
 
 ## Denominacions casc
 
-![denomaincions](img/denominacions_buc.jpg "denominacions")
+![denomaincions](img/denominacions_buc.png "denominacions")
 
 **casco**/**buc**: es el cuerpo de una embarcación, sin contar los elementos móviles como: arboladura, superestructuras, máquinas, pertrechos, etc.
 
